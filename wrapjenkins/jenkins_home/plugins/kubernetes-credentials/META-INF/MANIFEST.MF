@@ -1,0 +1,18 @@
+Manifest-Version: 1.0
+Archiver-Version: Plexus Archiver
+Created-By: Apache Maven
+Built-By: maxime.lagresle
+Build-Jdk: 1.8.0_66
+Extension-Name: kubernetes-credentials
+Specification-Title: Common classes for Kubernetes credentials
+Implementation-Title: kubernetes-credentials
+Implementation-Version: 0.3.1
+Group-Id: org.jenkinsci.plugins
+Short-Name: kubernetes-credentials
+Long-Name: Kubernetes Credentials Plugin
+Plugin-Version: 0.3.1
+Hudson-Version: 2.32.1
+Jenkins-Version: 2.32.1
+Plugin-Dependencies: credentials:2.1.7,plain-credentials:1.3
+Plugin-Developers: Max Laverse:max_laverse:
+
