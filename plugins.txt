@@ -1,6 +1,6 @@
 credentials-binding:1.18
 git:3.9.1
-kubernetes:1.14.9
+kubernetes:1.18.2
 timestamper:1.9
 workflow-aggregator:2.6
 workflow-job:2.32
