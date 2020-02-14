@@ -1,4 +1,4 @@
-FROM jenkins/jenkins:2.176.1-slim
+FROM jenkins/jenkins:2.204.2-slim
 ENV ADMIN_USER=admin
 ENV ADMIN_PASSWORD=admin
 
